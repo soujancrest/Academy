@@ -1,0 +1,200 @@
+:root { 
+  --black: #000000;
+  --dove-gray: #707070;
+  --eerie-black: #1e1e1e;
+  --hawkes-blue: #d4effc;
+  --rhino: #2a3a64;
+  --tango: #f58220;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 22px;
+  --font-size-xxxl: 38px;
+ 
+  --font-family-stem_☞: "Stem ☞", Helvetica;
+  --font-family-stem☞-light: "Stem☞-Light", Helvetica;
+  --font-family-stem☞-medium: "Stem☞-Medium", Helvetica;
+}
+.stem-medium-rhino-22px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-light-rhino-16px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.stem-light-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-stem☞-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.stem-medium-rhino-12px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-rhino-18px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-light-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-stem☞-light);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.stem-medium-rhino-38px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-light-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-stem☞-light);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.stem-medium-rhino-26px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-light-rhino-18px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-light);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.stem-light-rhino-12px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-light);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.stem-light-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-stem☞-light);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.stem-medium-rhino-16px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-eerie-black-18px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-eerie-black-16px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-rhino-48px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-rhino-10px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-rhino-32px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-rhino-15px {
+  color: var(--rhino);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.stem-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-stem☞-medium);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
