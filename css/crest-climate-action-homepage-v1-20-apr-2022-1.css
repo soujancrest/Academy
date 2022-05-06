@@ -58,7 +58,7 @@
   font-weight: 300;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: left;
@@ -89,7 +89,7 @@
   background-color: transparent;
   bottom: calc(47.22% - 12px);
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(49.01% - 53px);
@@ -116,7 +116,7 @@
   font-weight: 500;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   position: absolute;
   text-align: left;
@@ -136,15 +136,15 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .mba-xKjxSv {
   background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: calc(100% + 2px);
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 26px;
   position: absolute;
   text-align: left;
   top: 4px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .component-2-2-NAzV4J {
@@ -158,15 +158,15 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .bba-JpRxZB {
   background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: calc(100% + 2px);
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 26px;
   position: absolute;
   text-align: left;
   top: 4px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .component-3-2-NAzV4J {
@@ -180,15 +180,15 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .cba-OxFKOR {
   background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: calc(100% + 2px);
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 26px;
   position: absolute;
   text-align: left;
   top: 4px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .component-4-2-NAzV4J {
@@ -243,7 +243,7 @@
   background-color: transparent;
   bottom: calc(45.16% - 12px);
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(49.07% - 34px);
@@ -275,19 +275,20 @@
   bottom: calc(35.48% - 9px);
   height: 26px;
   left: 190px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: calc(100.00% - 378px);
+  width: calc(100% - 378px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .online-learning-experience-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .online-learning-experience-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 656px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   position: absolute;
   text-align: left;
@@ -296,11 +297,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .choose-what-youll-learn-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .choose-what-youll-learn-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 676px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   position: absolute;
   text-align: left;
@@ -309,11 +311,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .learn-alongside-leading-companies-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .learn-alongside-leading-companies-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 558px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   position: absolute;
   text-align: left;
@@ -322,11 +325,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .design-thinking-in-action-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .design-thinking-in-action-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 678px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   position: absolute;
   text-align: left;
@@ -335,11 +339,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .frequently-asked-questions-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .frequently-asked-questions-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 646px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   position: absolute;
   text-align: left;
@@ -360,7 +365,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .certificate-programs-xOIOOM {
   background-color: transparent;
   height: 36px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 26px;
   position: absolute;
   right: calc(49.06% - 123px);
@@ -375,11 +380,11 @@
   bottom: 3px;
   height: 110px;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 28px;
   position: absolute;
   text-align: center;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .group-2-NAzV4J {
@@ -394,7 +399,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .cohort-courses-4xphnf {
   background-color: transparent;
   height: 36px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 26px;
   position: absolute;
   right: calc(49.39% - 95px);
@@ -409,11 +414,11 @@
   bottom: 3px;
   height: 110px;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 28px;
   position: absolute;
   text-align: center;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .group-3-NAzV4J {
@@ -428,7 +433,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .self-paced-courses-oUVUSF {
   background-color: transparent;
   height: 36px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 26px;
   position: absolute;
   right: calc(49.17% - 116px);
@@ -443,11 +448,11 @@
   bottom: 3px;
   height: 110px;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 28px;
   position: absolute;
   text-align: center;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .page-1-NAzV4J {
@@ -470,15 +475,16 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .certificate-6kWFTj {
   background-color: transparent;
-  height: calc(100.00% + 2px);
+  height: calc(100% + 2px);
   left: -1px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: calc(100.00% + 1px);
+  width: calc(100% + 1px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .e-learning_course_on_cloud_storage-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .e-learning_course_on_cloud_storage-NAzV4J {
   background-color: transparent;
   height: 79px;
   left: 931px;
@@ -488,7 +494,8 @@
   width: 54px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .e-learning_flexible_schedule-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .e-learning_flexible_schedule-NAzV4J {
   background-color: transparent;
   height: 79px;
   left: 1377px;
@@ -502,7 +509,7 @@
   background-color: transparent;
   height: auto;
   left: 458px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 28px;
   position: absolute;
   text-align: center;
@@ -514,7 +521,7 @@
   background-color: transparent;
   height: auto;
   left: 424px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 28px;
   position: absolute;
   text-align: center;
@@ -522,7 +529,8 @@
   width: 1074px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .icon-material-keyboard-arrow-left-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .icon-material-keyboard-arrow-left-NAzV4J {
   background-color: transparent;
   height: 26px;
   left: 251px;
@@ -532,7 +540,8 @@
   width: 16px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .scroll-group-6-NAzV4J::-webkit-scrollbar {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .scroll-group-6-NAzV4J::-webkit-scrollbar {
   display: none;
   width: 0;
 }
@@ -574,18 +583,19 @@
   height: 45px;
   left: 20px;
   position: absolute;
-  width: calc(100.00% - 40px);
+  width: calc(100% - 40px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .environmental-entrepreneurship-t6WXZd {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .environmental-entrepreneurship-t6WXZd {
   background-color: transparent;
   height: 31px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: left;
-  top: calc(50.00% - 16px);
+  top: calc(50% - 16px);
   white-space: nowrap;
   width: 332px;
 }
@@ -595,16 +605,17 @@
   bottom: calc(40.98% - 16px);
   height: 40px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
   width: 294px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .e-learning_course_on_cloud_storage-t6WXZd {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .e-learning_course_on_cloud_storage-t6WXZd {
   background-color: transparent;
-  bottom: calc(27.50% - 9px);
+  bottom: calc(27.5% - 9px);
   height: 34px;
   left: 20px;
   object-fit: cover;
@@ -612,7 +623,8 @@
   width: 23px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .x1814097_clock_schedule_time_icon-t6WXZd {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .x1814097_clock_schedule_time_icon-t6WXZd {
   background-color: transparent;
   bottom: calc(18.69% - 4px);
   height: 23px;
@@ -632,17 +644,17 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-131-m6e2LO {
   background-color: transparent;
-  height: calc(100.00% + 1px);
+  height: calc(100% + 1px);
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: calc(100.00% + 1px);
+  width: calc(100% + 1px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-132-m6e2LO {
   background-color: transparent;
-  height: calc(100.00% - 10px);
+  height: calc(100% - 10px);
   object-fit: cover;
   position: absolute;
   right: calc(38.24% - 2px);
@@ -659,7 +671,7 @@
   font-weight: 500;
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -678,10 +690,10 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .x2-years-t6WXZd {
   background-color: transparent;
-  bottom: calc(19.60% - 3px);
+  bottom: calc(19.6% - 3px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -703,7 +715,7 @@
   background-color: transparent;
   bottom: 32px;
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(49.48% - 50px);
@@ -737,18 +749,18 @@
   height: 45px;
   left: 20px;
   position: absolute;
-  width: calc(100.00% - 40px);
+  width: calc(100% - 40px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .sustainable-future-Gx13nl {
   background-color: transparent;
   height: 31px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: left;
-  top: calc(50.00% - 16px);
+  top: calc(50% - 16px);
   white-space: nowrap;
   width: 194px;
 }
@@ -758,16 +770,17 @@
   bottom: calc(40.98% - 16px);
   height: 40px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
   width: 294px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .e-learning_course_on_cloud_storage-Gx13nl {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .e-learning_course_on_cloud_storage-Gx13nl {
   background-color: transparent;
-  bottom: calc(27.50% - 9px);
+  bottom: calc(27.5% - 9px);
   height: 34px;
   left: 20px;
   object-fit: cover;
@@ -775,7 +788,8 @@
   width: 23px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .x1814097_clock_schedule_time_icon-Gx13nl {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .x1814097_clock_schedule_time_icon-Gx13nl {
   background-color: transparent;
   bottom: calc(18.69% - 4px);
   height: 23px;
@@ -795,17 +809,17 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-131-fU3xsL {
   background-color: transparent;
-  height: calc(100.00% + 1px);
+  height: calc(100% + 1px);
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: calc(100.00% + 1px);
+  width: calc(100% + 1px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-132-fU3xsL {
   background-color: transparent;
-  height: calc(100.00% - 10px);
+  height: calc(100% - 10px);
   object-fit: cover;
   position: absolute;
   right: calc(38.24% - 2px);
@@ -822,7 +836,7 @@
   font-weight: 500;
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -841,10 +855,10 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .x2-years-Gx13nl {
   background-color: transparent;
-  bottom: calc(19.60% - 3px);
+  bottom: calc(19.6% - 3px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -866,7 +880,7 @@
   background-color: transparent;
   bottom: 32px;
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(49.48% - 50px);
@@ -900,18 +914,19 @@
   height: 45px;
   left: 20px;
   position: absolute;
-  width: calc(100.00% - 40px);
+  width: calc(100% - 40px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .climate-action-stewardship-C0Pg5l {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .climate-action-stewardship-C0Pg5l {
   background-color: transparent;
   height: 31px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: left;
-  top: calc(50.00% - 16px);
+  top: calc(50% - 16px);
   white-space: nowrap;
   width: 283px;
 }
@@ -921,16 +936,17 @@
   bottom: calc(40.98% - 16px);
   height: 40px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
   width: 294px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .e-learning_course_on_cloud_storage-C0Pg5l {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .e-learning_course_on_cloud_storage-C0Pg5l {
   background-color: transparent;
-  bottom: calc(27.50% - 9px);
+  bottom: calc(27.5% - 9px);
   height: 34px;
   left: 20px;
   object-fit: cover;
@@ -938,7 +954,8 @@
   width: 23px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .x1814097_clock_schedule_time_icon-C0Pg5l {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .x1814097_clock_schedule_time_icon-C0Pg5l {
   background-color: transparent;
   bottom: calc(18.69% - 4px);
   height: 23px;
@@ -958,17 +975,17 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-131-lyYioa {
   background-color: transparent;
-  height: calc(100.00% + 1px);
+  height: calc(100% + 1px);
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: calc(100.00% + 1px);
+  width: calc(100% + 1px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-132-lyYioa {
   background-color: transparent;
-  height: calc(100.00% - 10px);
+  height: calc(100% - 10px);
   object-fit: cover;
   position: absolute;
   right: calc(38.24% - 2px);
@@ -981,7 +998,7 @@
   bottom: calc(28.91% - 5px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -991,10 +1008,10 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .x3-years-C0Pg5l {
   background-color: transparent;
-  bottom: calc(19.60% - 3px);
+  bottom: calc(19.6% - 3px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -1016,7 +1033,7 @@
   background-color: transparent;
   bottom: 32px;
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(49.48% - 50px);
@@ -1050,18 +1067,18 @@
   height: 45px;
   left: 20px;
   position: absolute;
-  width: calc(100.00% - 40px);
+  width: calc(100% - 40px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .sustainable-community-XExS5a {
   background-color: transparent;
   height: 31px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: left;
-  top: calc(50.00% - 16px);
+  top: calc(50% - 16px);
   white-space: nowrap;
   width: 244px;
 }
@@ -1071,16 +1088,17 @@
   bottom: calc(40.98% - 16px);
   height: 40px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
   width: 294px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .e-learning_course_on_cloud_storage-XExS5a {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .e-learning_course_on_cloud_storage-XExS5a {
   background-color: transparent;
-  bottom: calc(27.50% - 9px);
+  bottom: calc(27.5% - 9px);
   height: 34px;
   left: 20px;
   object-fit: cover;
@@ -1088,7 +1106,8 @@
   width: 23px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .x1814097_clock_schedule_time_icon-XExS5a {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .x1814097_clock_schedule_time_icon-XExS5a {
   background-color: transparent;
   bottom: calc(18.69% - 4px);
   height: 23px;
@@ -1108,17 +1127,17 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-131-wZA3L7 {
   background-color: transparent;
-  height: calc(100.00% + 1px);
+  height: calc(100% + 1px);
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: calc(100.00% + 1px);
+  width: calc(100% + 1px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-132-wZA3L7 {
   background-color: transparent;
-  height: calc(100.00% - 10px);
+  height: calc(100% - 10px);
   object-fit: cover;
   position: absolute;
   right: calc(38.24% - 2px);
@@ -1131,7 +1150,7 @@
   bottom: calc(28.91% - 5px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -1141,10 +1160,10 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .x3-years-XExS5a {
   background-color: transparent;
-  bottom: calc(19.60% - 3px);
+  bottom: calc(19.6% - 3px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -1166,7 +1185,7 @@
   background-color: transparent;
   bottom: 32px;
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(49.48% - 50px);
@@ -1200,18 +1219,19 @@
   height: 45px;
   left: 20px;
   position: absolute;
-  width: calc(100.00% - 40px);
+  width: calc(100% - 40px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .urban-rural-sustainability-fdNpDF {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .urban-rural-sustainability-fdNpDF {
   background-color: transparent;
   height: 31px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: left;
-  top: calc(50.00% - 16px);
+  top: calc(50% - 16px);
   white-space: nowrap;
   width: 287px;
 }
@@ -1221,16 +1241,17 @@
   bottom: calc(40.98% - 16px);
   height: 40px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
   width: 294px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .e-learning_course_on_cloud_storage-fdNpDF {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .e-learning_course_on_cloud_storage-fdNpDF {
   background-color: transparent;
-  bottom: calc(27.50% - 9px);
+  bottom: calc(27.5% - 9px);
   height: 34px;
   left: 20px;
   object-fit: cover;
@@ -1238,7 +1259,8 @@
   width: 23px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .x1814097_clock_schedule_time_icon-fdNpDF {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .x1814097_clock_schedule_time_icon-fdNpDF {
   background-color: transparent;
   bottom: calc(18.69% - 4px);
   height: 23px;
@@ -1258,17 +1280,17 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-131-axXwsR {
   background-color: transparent;
-  height: calc(100.00% + 1px);
+  height: calc(100% + 1px);
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: calc(100.00% + 1px);
+  width: calc(100% + 1px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-132-axXwsR {
   background-color: transparent;
-  height: calc(100.00% - 10px);
+  height: calc(100% - 10px);
   object-fit: cover;
   position: absolute;
   right: calc(38.24% - 2px);
@@ -1281,7 +1303,7 @@
   bottom: calc(28.91% - 5px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -1291,10 +1313,10 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .x1-years-fdNpDF {
   background-color: transparent;
-  bottom: calc(19.60% - 3px);
+  bottom: calc(19.6% - 3px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -1316,7 +1338,7 @@
   background-color: transparent;
   bottom: 32px;
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(49.48% - 50px);
@@ -1350,18 +1372,19 @@
   height: 45px;
   left: 20px;
   position: absolute;
-  width: calc(100.00% - 40px);
+  width: calc(100% - 40px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .climate-justice-practice-rNlg1n {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .climate-justice-practice-rNlg1n {
   background-color: transparent;
   height: 31px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: left;
-  top: calc(50.00% - 16px);
+  top: calc(50% - 16px);
   white-space: nowrap;
   width: 268px;
 }
@@ -1371,16 +1394,17 @@
   bottom: calc(40.98% - 16px);
   height: 40px;
   left: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
   width: 294px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .e-learning_course_on_cloud_storage-rNlg1n {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .e-learning_course_on_cloud_storage-rNlg1n {
   background-color: transparent;
-  bottom: calc(27.50% - 9px);
+  bottom: calc(27.5% - 9px);
   height: 34px;
   left: 20px;
   object-fit: cover;
@@ -1388,7 +1412,8 @@
   width: 23px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .x1814097_clock_schedule_time_icon-rNlg1n {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .x1814097_clock_schedule_time_icon-rNlg1n {
   background-color: transparent;
   bottom: calc(18.69% - 4px);
   height: 23px;
@@ -1408,17 +1433,17 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-131-kGCnpn {
   background-color: transparent;
-  height: calc(100.00% + 1px);
+  height: calc(100% + 1px);
   left: 0px;
   object-fit: cover;
   position: absolute;
   top: 0px;
-  width: calc(100.00% + 1px);
+  width: calc(100% + 1px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .fill-132-kGCnpn {
   background-color: transparent;
-  height: calc(100.00% - 10px);
+  height: calc(100% - 10px);
   object-fit: cover;
   position: absolute;
   right: calc(38.24% - 2px);
@@ -1431,7 +1456,7 @@
   bottom: calc(28.91% - 5px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -1441,10 +1466,10 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .x1-years-rNlg1n {
   background-color: transparent;
-  bottom: calc(19.60% - 3px);
+  bottom: calc(19.6% - 3px);
   height: 17px;
   left: 58px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 23px;
   position: absolute;
   text-align: left;
@@ -1466,7 +1491,7 @@
   background-color: transparent;
   bottom: 32px;
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(49.48% - 50px);
@@ -1490,12 +1515,12 @@
   mix-blend-mode: multiply;
   position: absolute;
   top: 0px;
-  width: calc(100.00% - 78px);
+  width: calc(100% - 78px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .world-2-l7j8MZ {
   background-color: transparent;
-  height: calc(100.00% - 225px);
+  height: calc(100% - 225px);
   left: 0px;
   opacity: 0.1;
   position: absolute;
@@ -1519,7 +1544,7 @@
   height: 77px;
   object-fit: cover;
   position: absolute;
-  right: calc(45.50% - 32px);
+  right: calc(45.5% - 32px);
   width: 70px;
 }
 
@@ -1578,7 +1603,7 @@
   height: 16px;
   object-fit: cover;
   position: absolute;
-  right: calc(38.80% - 7px);
+  right: calc(38.8% - 7px);
   top: calc(28.15% - 5px);
   width: 18px;
 }
@@ -1609,7 +1634,7 @@
   object-fit: cover;
   position: absolute;
   right: calc(47.33% - 18px);
-  top: calc(22.30% - 4px);
+  top: calc(22.3% - 4px);
   width: 37px;
 }
 
@@ -1618,7 +1643,7 @@
   height: 6px;
   object-fit: cover;
   position: absolute;
-  right: calc(38.70% - 3px);
+  right: calc(38.7% - 3px);
   top: calc(28.97% - 2px);
   width: 8px;
 }
@@ -1775,7 +1800,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .cf-UvBbxq {
   background-color: transparent;
-  bottom: calc(46.20% - 26px);
+  bottom: calc(46.2% - 26px);
   height: 57px;
   object-fit: cover;
   position: absolute;
@@ -1786,7 +1811,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-30-UvBbxq {
   background-color: transparent;
   height: 7px;
-  left: calc(33.30% - 4px);
+  left: calc(33.3% - 4px);
   object-fit: cover;
   position: absolute;
   top: calc(23.53% - 2px);
@@ -1846,7 +1871,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-36-UvBbxq {
   background-color: transparent;
   height: 4px;
-  left: calc(30.90% - 3px);
+  left: calc(30.9% - 3px);
   object-fit: cover;
   position: absolute;
   top: 104px;
@@ -1966,7 +1991,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-48-UvBbxq {
   background-color: transparent;
   height: 5px;
-  left: calc(31.00% - 4px);
+  left: calc(31% - 4px);
   object-fit: cover;
   position: absolute;
   top: 35px;
@@ -2088,7 +2113,7 @@
   height: 13px;
   object-fit: cover;
   position: absolute;
-  right: calc(48.60% - 11px);
+  right: calc(48.6% - 11px);
   top: calc(23.11% - 3px);
   width: 22px;
 }
@@ -2117,7 +2142,7 @@
   background-color: transparent;
   bottom: calc(46.85% - 19px);
   height: 40px;
-  left: calc(47.70% - 16px);
+  left: calc(47.7% - 16px);
   object-fit: cover;
   position: absolute;
   width: 34px;
@@ -2165,9 +2190,9 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .cr-UvBbxq {
   background-color: transparent;
-  bottom: calc(48.70% - 9px);
+  bottom: calc(48.7% - 9px);
   height: 19px;
-  left: calc(25.30% - 5px);
+  left: calc(25.3% - 5px);
   object-fit: cover;
   position: absolute;
   width: 19px;
@@ -2209,7 +2234,7 @@
   object-fit: cover;
   position: absolute;
   right: calc(38.65% - 4px);
-  top: calc(49.70% - 6px);
+  top: calc(49.7% - 6px);
   width: 9px;
 }
 
@@ -2218,7 +2243,7 @@
   height: 8px;
   object-fit: cover;
   position: absolute;
-  right: calc(47.90% - 4px);
+  right: calc(47.9% - 4px);
   top: 144px;
   width: 8px;
 }
@@ -2278,7 +2303,7 @@
   height: 36px;
   object-fit: cover;
   position: absolute;
-  right: calc(39.30% - 15px);
+  right: calc(39.3% - 15px);
   top: calc(47.02% - 17px);
   width: 39px;
 }
@@ -2357,7 +2382,7 @@
   background-color: transparent;
   bottom: calc(47.22% - 19px);
   height: 41px;
-  left: calc(49.00% - 12px);
+  left: calc(49% - 12px);
   object-fit: cover;
   position: absolute;
   width: 24px;
@@ -2729,7 +2754,7 @@
   object-fit: cover;
   position: absolute;
   right: calc(40.52% - 9px);
-  top: calc(34.60% - 9px);
+  top: calc(34.6% - 9px);
   width: 21px;
 }
 
@@ -2768,7 +2793,7 @@
   height: 92px;
   object-fit: cover;
   position: absolute;
-  right: calc(32.30% - 65px);
+  right: calc(32.3% - 65px);
   top: calc(19.39% - 18px);
   width: 201px;
 }
@@ -2789,7 +2814,7 @@
   object-fit: cover;
   position: absolute;
   right: calc(30.74% - 16px);
-  top: calc(26.90% - 7px);
+  top: calc(26.9% - 7px);
   width: 51px;
 }
 
@@ -2838,7 +2863,7 @@
   height: 10px;
   object-fit: cover;
   position: absolute;
-  right: calc(41.00% - 3px);
+  right: calc(41% - 3px);
   top: calc(32.95% - 3px);
   width: 7px;
 }
@@ -2869,7 +2894,7 @@
   height: 25px;
   object-fit: cover;
   position: absolute;
-  right: calc(27.70% - 3px);
+  right: calc(27.7% - 3px);
   width: 12px;
 }
 
@@ -2888,7 +2913,7 @@
   height: 15px;
   object-fit: cover;
   position: absolute;
-  right: calc(45.00% - 12px);
+  right: calc(45% - 12px);
   top: 142px;
   width: 27px;
 }
@@ -3149,7 +3174,7 @@
   object-fit: cover;
   position: absolute;
   right: calc(34.81% - 15px);
-  top: calc(42.50% - 23px);
+  top: calc(42.5% - 23px);
   width: 42px;
 }
 
@@ -3175,7 +3200,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .pa-UvBbxq {
   background-color: transparent;
-  bottom: calc(47.70% - 7px);
+  bottom: calc(47.7% - 7px);
   height: 15px;
   left: calc(26.27% - 8px);
   object-fit: cover;
@@ -3225,7 +3250,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-98-UvBbxq {
   background-color: transparent;
-  bottom: calc(49.80% - 5px);
+  bottom: calc(49.8% - 5px);
   height: 9px;
   object-fit: cover;
   position: absolute;
@@ -3295,7 +3320,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-105-UvBbxq {
   background-color: transparent;
-  bottom: calc(38.50% - 6px);
+  bottom: calc(38.5% - 6px);
   height: 14px;
   object-fit: cover;
   position: absolute;
@@ -3325,9 +3350,9 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .py-UvBbxq {
   background-color: transparent;
-  bottom: calc(22.10% - 12px);
+  bottom: calc(22.1% - 12px);
   height: 53px;
-  left: calc(32.70% - 16px);
+  left: calc(32.7% - 16px);
   object-fit: cover;
   position: absolute;
   width: 48px;
@@ -3379,7 +3404,7 @@
   left: calc(45.65% - 22px);
   object-fit: cover;
   position: absolute;
-  top: calc(39.80% - 17px);
+  top: calc(39.8% - 17px);
   width: 47px;
 }
 
@@ -3525,7 +3550,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .tg-UvBbxq {
   background-color: transparent;
-  bottom: calc(47.70% - 16px);
+  bottom: calc(47.7% - 16px);
   height: 33px;
   left: calc(49.57% - 5px);
   object-fit: cover;
@@ -3548,7 +3573,7 @@
   height: 27px;
   object-fit: cover;
   position: absolute;
-  right: calc(31.50% - 13px);
+  right: calc(31.5% - 13px);
   top: calc(28.74% - 8px);
   width: 43px;
 }
@@ -3609,7 +3634,7 @@
   object-fit: cover;
   position: absolute;
   right: 340px;
-  top: calc(40.60% - 9px);
+  top: calc(40.6% - 9px);
   width: 8px;
 }
 
@@ -3719,7 +3744,7 @@
   height: 88px;
   object-fit: cover;
   position: absolute;
-  right: calc(37.30% - 21px);
+  right: calc(37.3% - 21px);
   width: 56px;
 }
 
@@ -3729,7 +3754,7 @@
   object-fit: cover;
   position: absolute;
   right: calc(45.27% - 4px);
-  top: calc(26.40% - 2px);
+  top: calc(26.4% - 2px);
   width: 9px;
 }
 
@@ -3818,7 +3843,7 @@
   height: 5px;
   object-fit: cover;
   position: absolute;
-  right: calc(45.60% - 7px);
+  right: calc(45.6% - 7px);
   top: 149px;
   width: 15px;
 }
@@ -3939,7 +3964,7 @@
   left: 116px;
   object-fit: cover;
   position: absolute;
-  top: calc(43.80% - 4px);
+  top: calc(43.8% - 4px);
   width: 7px;
 }
 
@@ -4035,7 +4060,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .gf-UvBbxq {
   background-color: transparent;
-  bottom: calc(44.20% - 10px);
+  bottom: calc(44.2% - 10px);
   height: 24px;
   left: calc(34.13% - 6px);
   object-fit: cover;
@@ -4086,7 +4111,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-136-UvBbxq {
   background-color: transparent;
   height: 1px;
-  left: 32.00%;
+  left: 32%;
   object-fit: cover;
   position: absolute;
   top: 45.74%;
@@ -4109,7 +4134,7 @@
   object-fit: cover;
   position: absolute;
   right: 36.76%;
-  top: calc(39.00% - 1px);
+  top: calc(39% - 1px);
   width: 1px;
 }
 
@@ -4206,10 +4231,10 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-147-UvBbxq {
   background-color: transparent;
   height: 1px;
-  left: 28.70%;
+  left: 28.7%;
   object-fit: cover;
   position: absolute;
-  top: 40.50%;
+  top: 40.5%;
   width: 1px;
 }
 
@@ -4229,7 +4254,7 @@
   left: calc(27.79% - 1px);
   object-fit: cover;
   position: absolute;
-  top: calc(40.50% - 1px);
+  top: calc(40.5% - 1px);
   width: 2px;
 }
 
@@ -4239,7 +4264,7 @@
   left: calc(28.41% - 1px);
   object-fit: cover;
   position: absolute;
-  top: calc(40.20% - 1px);
+  top: calc(40.2% - 1px);
   width: 2px;
 }
 
@@ -4335,7 +4360,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-157-UvBbxq {
   background-color: transparent;
-  bottom: calc(32.20% - 1px);
+  bottom: calc(32.2% - 1px);
   height: 2px;
   object-fit: cover;
   position: absolute;
@@ -4386,7 +4411,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-162-UvBbxq {
   background-color: transparent;
   height: 1px;
-  left: 42.80%;
+  left: 42.8%;
   object-fit: cover;
   position: absolute;
   top: calc(47.15% - 1px);
@@ -4449,7 +4474,7 @@
   left: calc(29.85% - 1px);
   object-fit: cover;
   position: absolute;
-  top: calc(49.40% - 1px);
+  top: calc(49.4% - 1px);
   width: 2px;
 }
 
@@ -4666,7 +4691,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-188-UvBbxq {
   background-color: transparent;
   height: 2px;
-  left: calc(47.80% - 1px);
+  left: calc(47.8% - 1px);
   object-fit: cover;
   position: absolute;
   top: 107px;
@@ -4779,7 +4804,7 @@
   left: 31.68%;
   object-fit: cover;
   position: absolute;
-  top: 45.00%;
+  top: 45%;
   width: 1px;
 }
 
@@ -4819,7 +4844,7 @@
   object-fit: cover;
   position: absolute;
   right: 46.89%;
-  top: 31.50%;
+  top: 31.5%;
   width: 1px;
 }
 
@@ -4889,7 +4914,7 @@
   left: 31.88%;
   object-fit: cover;
   position: absolute;
-  top: 46.00%;
+  top: 46%;
   width: 1px;
 }
 
@@ -4905,7 +4930,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-205-UvBbxq {
   background-color: transparent;
-  bottom: 26.60%;
+  bottom: 26.6%;
   height: 1px;
   object-fit: cover;
   position: absolute;
@@ -5589,7 +5614,7 @@
   left: 29.37%;
   object-fit: cover;
   position: absolute;
-  top: 42.20%;
+  top: 42.2%;
   width: 1px;
 }
 
@@ -5729,7 +5754,7 @@
   left: 31.22%;
   object-fit: cover;
   position: absolute;
-  top: 44.80%;
+  top: 44.8%;
   width: 1px;
 }
 
@@ -5739,7 +5764,7 @@
   left: 31.16%;
   object-fit: cover;
   position: absolute;
-  top: 44.80%;
+  top: 44.8%;
   width: 1px;
 }
 
@@ -5775,7 +5800,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-286-UvBbxq {
   background-color: transparent;
-  bottom: calc(28.10% - 1px);
+  bottom: calc(28.1% - 1px);
   height: 2px;
   object-fit: cover;
   position: absolute;
@@ -5815,7 +5840,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-290-UvBbxq {
   background-color: transparent;
-  bottom: calc(29.20% - 1px);
+  bottom: calc(29.2% - 1px);
   height: 2px;
   object-fit: cover;
   position: absolute;
@@ -5885,7 +5910,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-297-UvBbxq {
   background-color: transparent;
-  bottom: calc(29.90% - 2px);
+  bottom: calc(29.9% - 2px);
   height: 6px;
   object-fit: cover;
   position: absolute;
@@ -6006,7 +6031,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-305-UvBbxq {
   background-color: transparent;
   height: 1px;
-  left: calc(44.60% - 1px);
+  left: calc(44.6% - 1px);
   object-fit: cover;
   position: absolute;
   top: 37.44%;
@@ -6079,7 +6104,7 @@
   left: 32.12%;
   object-fit: cover;
   position: absolute;
-  top: 46.60%;
+  top: 46.6%;
   width: 1px;
 }
 
@@ -6185,7 +6210,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .path-321-UvBbxq {
   background-color: transparent;
-  bottom: 28.70%;
+  bottom: 28.7%;
   height: 1px;
   object-fit: cover;
   position: absolute;
@@ -6208,7 +6233,7 @@
   height: 0px;
   left: 49.89%;
   position: absolute;
-  top: 22.00%;
+  top: 22%;
   width: 0px;
 }
 
@@ -6230,11 +6255,12 @@
   width: 0px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .loved-by-learners-across-the-globe-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .loved-by-learners-across-the-globe-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 562px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   position: absolute;
   text-align: left;
@@ -6254,7 +6280,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .group-5-BEwmF5 {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  height: calc(100% - 1px);
   left: 0px;
   position: absolute;
   top: 0px;
@@ -6265,13 +6291,13 @@
   background-color: transparent;
   height: 64px;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   position: absolute;
   text-align: left;
   top: 7px;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .alumni-Gzwkv9 {
@@ -6279,7 +6305,7 @@
   bottom: -6px;
   height: 38px;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 28px;
   position: absolute;
   text-align: left;
@@ -6289,7 +6315,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .group-6-BEwmF5 {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  height: calc(100% - 1px);
   left: calc(42.47% - 54px);
   position: absolute;
   top: 1px;
@@ -6299,7 +6325,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .x138-TJxNxK {
   background-color: transparent;
   height: 64px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   position: absolute;
   right: calc(47.73% - 39px);
@@ -6314,17 +6340,17 @@
   bottom: -6px;
   height: 38px;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 28px;
   position: absolute;
   text-align: center;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .group-7-BEwmF5 {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  height: calc(100% - 1px);
   position: absolute;
   right: 0px;
   top: 0px;
@@ -6334,7 +6360,7 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .x91-k-TxjUx5 {
   background-color: transparent;
   height: 64px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 48px;
   opacity: 0.91;
   position: absolute;
@@ -6350,17 +6376,17 @@
   bottom: -6px;
   height: 38px;
   left: 0px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 28px;
   position: absolute;
   text-align: center;
   white-space: nowrap;
-  width: calc(100.00% + 2px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-1-BEwmF5 {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  height: calc(100% - 1px);
   left: 26.37%;
   object-fit: cover;
   position: absolute;
@@ -6370,7 +6396,7 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-2-BEwmF5 {
   background-color: transparent;
-  height: calc(100.00% - 1px);
+  height: calc(100% - 1px);
   object-fit: cover;
   position: absolute;
   right: 38.31%;
@@ -6403,7 +6429,7 @@
   background-color: transparent;
   height: auto;
   left: 427px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: center;
@@ -6412,11 +6438,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .product-designer-msc-student-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .product-designer-msc-student-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 393px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: center;
@@ -6429,7 +6456,7 @@
   background-color: transparent;
   height: auto;
   left: 365px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6462,7 +6489,7 @@
   background-color: transparent;
   height: auto;
   left: 870px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: center;
@@ -6471,11 +6498,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .product-designer-msc-student-jeP9in {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .product-designer-msc-student-jeP9in {
   background-color: transparent;
   height: auto;
   left: 836px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: center;
@@ -6488,7 +6516,7 @@
   background-color: transparent;
   height: auto;
   left: 808px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6521,7 +6549,7 @@
   background-color: transparent;
   height: auto;
   left: 1313px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: center;
@@ -6530,11 +6558,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .product-designer-msc-student-n2cLRC {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .product-designer-msc-student-n2cLRC {
   background-color: transparent;
   height: auto;
   left: 1279px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: center;
@@ -6547,7 +6576,7 @@
   background-color: transparent;
   height: auto;
   left: 1251px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6588,7 +6617,7 @@
   background-color: transparent;
   height: auto;
   left: 839px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: left;
@@ -6600,7 +6629,7 @@
   background-color: transparent;
   height: auto;
   left: 851px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: left;
@@ -6687,12 +6716,13 @@
   width: 100%;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .case-study-sustainability-qQxtzQ {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .case-study-sustainability-qQxtzQ {
   background-color: transparent;
   bottom: calc(45.65% - 8px);
   height: 17px;
   left: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6705,7 +6735,7 @@
   bottom: 40px;
   height: 17px;
   left: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6718,11 +6748,11 @@
   bottom: calc(32.09% - 22px);
   height: 70px;
   left: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 26px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 107px);
+  width: calc(100% - 107px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .lorem-ipsum-has-been-qQxtzQ {
@@ -6730,14 +6760,15 @@
   bottom: calc(17.71% - 7px);
   height: 37px;
   left: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 107px);
+  width: calc(100% - 107px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .icon-material-keyboard-arrow-left-qQxtzQ {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .icon-material-keyboard-arrow-left-qQxtzQ {
   background-color: transparent;
   bottom: 43px;
   height: 8px;
@@ -6747,7 +6778,8 @@
   width: 5px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .icon-material-keyboard-arrow-left-lWBl1N {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .icon-material-keyboard-arrow-left-lWBl1N {
   background-color: transparent;
   bottom: 43px;
   height: 8px;
@@ -6786,12 +6818,13 @@
   width: 100%;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .case-study-sustainability-ILs2YF {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .case-study-sustainability-ILs2YF {
   background-color: transparent;
   bottom: calc(45.65% - 8px);
   height: 17px;
   left: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6804,7 +6837,7 @@
   bottom: 40px;
   height: 17px;
   left: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6817,11 +6850,11 @@
   bottom: calc(32.09% - 22px);
   height: 70px;
   left: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 26px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 107px);
+  width: calc(100% - 107px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .lorem-ipsum-has-been-ILs2YF {
@@ -6829,14 +6862,15 @@
   bottom: calc(17.71% - 7px);
   height: 37px;
   left: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   position: absolute;
   text-align: left;
-  width: calc(100.00% - 107px);
+  width: calc(100% - 107px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .icon-material-keyboard-arrow-left-ILs2YF {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .icon-material-keyboard-arrow-left-ILs2YF {
   background-color: transparent;
   bottom: 43px;
   height: 8px;
@@ -6846,7 +6880,8 @@
   width: 5px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .icon-material-keyboard-arrow-left-Oygjhx {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .icon-material-keyboard-arrow-left-Oygjhx {
   background-color: transparent;
   bottom: 43px;
   height: 8px;
@@ -6860,7 +6895,7 @@
   background-color: transparent;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6869,11 +6904,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .how-do-certificate-programs-work-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .how-do-certificate-programs-work-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6882,11 +6918,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .does-my-time-zone-matter-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .does-my-time-zone-matter-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6895,11 +6932,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .which-course-best-suits-me-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .which-course-best-suits-me-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6908,11 +6946,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .are-there-any-discounts-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .are-there-any-discounts-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6921,11 +6960,12 @@
   width: auto;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .how-do-i-purchase-my-course-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .how-do-i-purchase-my-course-NAzV4J {
   background-color: transparent;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -6938,7 +6978,7 @@
   background-color: transparent;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: center;
@@ -7028,8 +7068,8 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-3-CCsmA1 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: calc(50.00% - 1px);
+  height: calc(100% + 2px);
+  left: calc(50% - 1px);
   object-fit: cover;
   position: absolute;
   top: -1px;
@@ -7042,8 +7082,8 @@
   left: -1px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 1px);
-  width: calc(100.00% + 2px);
+  top: calc(50% - 1px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .plus-jeP9in {
@@ -7057,8 +7097,8 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-3-qnB8PD {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: calc(50.00% - 1px);
+  height: calc(100% + 2px);
+  left: calc(50% - 1px);
   object-fit: cover;
   position: absolute;
   top: -1px;
@@ -7071,8 +7111,8 @@
   left: -1px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 1px);
-  width: calc(100.00% + 2px);
+  top: calc(50% - 1px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .plus-n2cLRC {
@@ -7086,8 +7126,8 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-3-nHxuNC {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: calc(50.00% - 1px);
+  height: calc(100% + 2px);
+  left: calc(50% - 1px);
   object-fit: cover;
   position: absolute;
   top: -1px;
@@ -7100,8 +7140,8 @@
   left: -1px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 1px);
-  width: calc(100.00% + 2px);
+  top: calc(50% - 1px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .plus-0LnHuG {
@@ -7115,8 +7155,8 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-3-F8unkE {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: calc(50.00% - 1px);
+  height: calc(100% + 2px);
+  left: calc(50% - 1px);
   object-fit: cover;
   position: absolute;
   top: -1px;
@@ -7129,8 +7169,8 @@
   left: -1px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 1px);
-  width: calc(100.00% + 2px);
+  top: calc(50% - 1px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .plus-6UO8Nx {
@@ -7144,8 +7184,8 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-3-9MfQBo {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: calc(50.00% - 1px);
+  height: calc(100% + 2px);
+  left: calc(50% - 1px);
   object-fit: cover;
   position: absolute;
   top: -1px;
@@ -7158,8 +7198,8 @@
   left: -1px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 1px);
-  width: calc(100.00% + 2px);
+  top: calc(50% - 1px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .plus-8y76Y8 {
@@ -7173,8 +7213,8 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-3-7xw9jD {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: calc(50.00% - 1px);
+  height: calc(100% + 2px);
+  left: calc(50% - 1px);
   object-fit: cover;
   position: absolute;
   top: -1px;
@@ -7187,8 +7227,8 @@
   left: -1px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 1px);
-  width: calc(100.00% + 2px);
+  top: calc(50% - 1px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .plus-ylsnYI {
@@ -7202,8 +7242,8 @@
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .line-3-fYgFt1 {
   background-color: transparent;
-  height: calc(100.00% + 2px);
-  left: calc(50.00% - 1px);
+  height: calc(100% + 2px);
+  left: calc(50% - 1px);
   object-fit: cover;
   position: absolute;
   top: -1px;
@@ -7216,8 +7256,8 @@
   left: -1px;
   object-fit: cover;
   position: absolute;
-  top: calc(50.00% - 1px);
-  width: calc(100.00% + 2px);
+  top: calc(50% - 1px);
+  width: calc(100% + 2px);
 }
 
 .crest-climate-action-homepage-v1-20-apr-2022-1 .rectangle-23-NAzV4J {
@@ -7238,7 +7278,7 @@
   font-weight: 500;
   height: auto;
   left: 577px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 38px;
   position: absolute;
   text-align: left;
@@ -7256,7 +7296,7 @@
   font-weight: 300;
   height: auto;
   left: 690px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   position: absolute;
   text-align: left;
@@ -7290,7 +7330,7 @@
   background-color: transparent;
   height: auto;
   left: 1303px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: left;
@@ -7307,7 +7347,7 @@
   font-weight: 300;
   height: auto;
   left: 489px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7338,7 +7378,7 @@
   background-color: transparent;
   height: 28px;
   left: calc(18.55% - 34px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   position: absolute;
   text-align: left;
@@ -7351,7 +7391,7 @@
   background-color: transparent;
   height: 23px;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7365,7 +7405,7 @@
   bottom: 78px;
   height: 17px;
   left: calc(17.47% - 13px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 12px;
   position: absolute;
   text-align: left;
@@ -7378,7 +7418,7 @@
   bottom: 78px;
   height: 17px;
   left: calc(24.26% - 26px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 12px;
   position: absolute;
   text-align: left;
@@ -7391,7 +7431,7 @@
   bottom: 78px;
   height: 17px;
   left: calc(32.74% - 42px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 12px;
   position: absolute;
   text-align: left;
@@ -7399,12 +7439,13 @@
   width: 127px;
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .x2022-climate-action-report-904sWb {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .x2022-climate-action-report-904sWb {
   background-color: transparent;
   bottom: 78px;
   height: 17px;
   left: calc(42.85% - 68px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 12px;
   position: absolute;
   text-align: left;
@@ -7416,7 +7457,7 @@
   background-color: transparent;
   height: 23px;
   left: calc(28.86% - 10px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7429,7 +7470,7 @@
   background-color: transparent;
   height: 23px;
   left: calc(42.73% - 65px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7442,7 +7483,7 @@
   background-color: transparent;
   height: 23px;
   left: calc(17.48% - 14px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7455,7 +7496,7 @@
   background-color: transparent;
   height: 23px;
   left: calc(29.89% - 30px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7467,8 +7508,8 @@
 .crest-climate-action-homepage-v1-20-apr-2022-1 .our-story-904sWb {
   background-color: transparent;
   height: 23px;
-  left: calc(40.90% - 30px);
-  letter-spacing: 0.00px;
+  left: calc(40.9% - 30px);
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7481,7 +7522,7 @@
   background-color: transparent;
   height: 23px;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7494,7 +7535,7 @@
   background-color: transparent;
   height: 23px;
   left: calc(29.41% - 21px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7507,7 +7548,7 @@
   background-color: transparent;
   height: 23px;
   left: calc(41.64% - 45px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7521,7 +7562,7 @@
   bottom: calc(44.02% - 10px);
   height: 23px;
   left: calc(17.38% - 12px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7534,7 +7575,7 @@
   bottom: calc(44.02% - 10px);
   height: 23px;
   left: calc(29.55% - 23px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7547,7 +7588,7 @@
   bottom: calc(44.02% - 10px);
   height: 23px;
   left: calc(40.03% - 14px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7560,7 +7601,7 @@
   bottom: calc(35.27% - 8px);
   height: 23px;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7573,7 +7614,7 @@
   bottom: calc(35.27% - 8px);
   height: 23px;
   left: calc(29.57% - 24px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7586,7 +7627,7 @@
   bottom: calc(35.27% - 8px);
   height: 23px;
   left: calc(41.17% - 35px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 16px;
   position: absolute;
   text-align: left;
@@ -7598,7 +7639,7 @@
   background-color: transparent;
   height: 28px;
   left: calc(30.29% - 38px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   position: absolute;
   text-align: left;
@@ -7611,7 +7652,7 @@
   background-color: transparent;
   height: 28px;
   left: calc(41.55% - 43px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   position: absolute;
   text-align: left;
@@ -7722,10 +7763,11 @@
   left: 322px;
   object-fit: cover;
   position: absolute;
-  width: calc(100.00% - 644px);
+  width: calc(100% - 644px);
 }
 
-.crest-climate-action-homepage-v1-20-apr-2022-1 .creating-climate-warriors-NAzV4J {
+.crest-climate-action-homepage-v1-20-apr-2022-1
+  .creating-climate-warriors-NAzV4J {
   background-color: transparent;
   color: var(--white);
   font-family: var(--font-family-stem☞-medium);
@@ -7734,7 +7776,7 @@
   font-weight: 500;
   height: auto;
   left: 322px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 58px;
   position: absolute;
   text-align: left;
@@ -7765,7 +7807,7 @@
   bottom: calc(27.33% - 7px);
   height: 26px;
   left: calc(37.19% - 26px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: left;
@@ -7778,7 +7820,7 @@
   bottom: calc(27.33% - 7px);
   height: 26px;
   left: calc(47.31% - 82px);
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   text-align: left;
@@ -7790,7 +7832,7 @@
   background-color: transparent;
   bottom: calc(27.33% - 7px);
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(41.73% - 36px);
@@ -7803,7 +7845,7 @@
   background-color: transparent;
   bottom: calc(27.33% - 7px);
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(33.53% - 27px);
@@ -7816,7 +7858,7 @@
   background-color: transparent;
   bottom: calc(27.33% - 7px);
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(25.12% - 22px);
@@ -7829,7 +7871,7 @@
   background-color: transparent;
   bottom: calc(27.33% - 7px);
   height: 26px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 18px;
   position: absolute;
   right: calc(17.32% - 12px);
